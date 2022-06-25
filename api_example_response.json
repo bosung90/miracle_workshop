@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "country": "South Korea",
+  "countryCode": "KR",
+  "region": "11",
+  "regionName": "Seoul",
+  "city": "Seoul",
+  "zip": "045",
+  "lat": 37.5576,
+  "lon": 126.9937,
+  "timezone": "Asia/Seoul",
+  "isp": "KORNET",
+  "org": "hyundaesaneobgaebal(ju)",
+  "as": "AS4766 Korea Telecom",
+  "query": "121.xxx.xxx.xxx"
+}
