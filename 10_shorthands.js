@@ -18,3 +18,7 @@ if (5 > 10) {
   color = 'blue'
 }
 let color2 = 5 > 10 ? 'red' : 'blue'
+
+// || or && shorthand
+let host = lala || 'miracle club'
+let pizza = true && 'hawaiian'
