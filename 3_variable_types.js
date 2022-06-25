@@ -7,6 +7,7 @@ let str = 'hello world' // "hello world" or `hello world`
 // Boolean
 let bool = true // false
 // bool = !bool
+// let isSame = '100' === 100 // false
 
 // undefined
 let dateOfDeath
